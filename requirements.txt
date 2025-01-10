@@ -1,0 +1,5 @@
+pandas
+praw
+xmltodict
+scikit-learn
+tkinter
